@@ -1,2 +1,2 @@
-# FlappyBird
+# FlappyBird2.0
 A project of building a short 2D game as an assignment during my game development course.
